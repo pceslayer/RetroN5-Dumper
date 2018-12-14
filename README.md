@@ -4,7 +4,7 @@ Powershell Script to backup roms from a Rooted Hyperkin RetroN5
 
 This script assumes you have Windows 10 or PowerShell 4 installed and your RetroN 5 has already been rooted with ADB enabled.
 
-The powershell script was written to use the included ADB.exe client and may not function properly without it.
+The powershell script was written to use a ADB.exe executable located in the same directory. Script will fail without ADB.exe.
 
 Fast cartridge loading must be disabled if on firmware 2.4 or higher for proper dumping.
 
