@@ -11,7 +11,7 @@ The powershell script was written to use a ADB.exe executable located in the sam
 You must be on firmware 2.5 to dump Game Gear and Master System Cards. (3 in 1 hyperkin adapter required)
 
 
-noIntroList.csv contains the following NoIntro dats:
+noIntroList.csv contains data from the following NoIntro dats:
 
 Nintendo - Game Boy (20180916-053946)
 
