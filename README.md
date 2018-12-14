@@ -9,7 +9,6 @@ The powershell script was written to use the included ADB.exe client and may not
 Fast cartridge loading must be disabled if on firmware 2.4 or higher for proper dumping.
 
 
-
 noIntroList.csv contains the following NoIntro dats:
 
 Nintendo - Game Boy (20180916-053946)
