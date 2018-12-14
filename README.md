@@ -12,11 +12,19 @@ Fast cartridge loading must be disabled if on firmware 2.4 or higher for proper 
 noIntroList.csv contains the following NoIntro dats:
 
 Nintendo - Game Boy (20180916-053946)
+
 Nintendo - Game Boy Advance (20180915-084631)
+
 Nintendo - Game Boy Color (20180915-083815)
+
 Nintendo - Nintendo Entertainment System (20180911-151940)
+
 Nintendo - Nintendo Entertainment System (Headered)(20180623-100311)
+
 Nintendo - Super Nintendo Entertainment System (20180915-071733)
+
 Sega - Game Gear (20180915-213938)
+
 Sega - Master System - Mark III (20180914-004105)
+
 Sega - Mega Drive - Genesis (20180915-222822)
