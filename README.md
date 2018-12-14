@@ -30,3 +30,6 @@ Sega - Game Gear (20180915-213938)
 Sega - Master System - Mark III (20180914-004105)
 
 Sega - Mega Drive - Genesis (20180915-222822)
+
+
+This script was designed for use of rom archival purposes only.
