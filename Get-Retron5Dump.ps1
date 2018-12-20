@@ -1,8 +1,21 @@
 #################################
 #RetroN 5 ROM Dump Script
-#Version 1.1
+#Version 1.2
 #Written by pCeSlAyEr
 #################################
+##Supress error messages to console##
+$ErrorActionPreference = 'SilentlyContinue'
+
+##Query output directory existance##
+$outExists = (Get-ChildItem -dir | where {$_.name -match 'out'} | select Exists).Exists
+
+##If output directory not exist then create##
+if(!($outExists)){
+	Write-Host "Out directory doesn't Exist... Creating..." -Foregroundcolor Yellow
+	New-Item -ItemType directory -Name 'out' | out-null
+	Start-Sleep 3
+	clear
+}
 
 ##Main menu select function##
 function menuSelect{
