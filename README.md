@@ -1,5 +1,5 @@
 # RetroN5-Dumper
-Powershell Script to backup roms from a Rooted Hyperkin RetroN5
+Powershell Script to backup ROM files from a Rooted Hyperkin RetroN5
 
 
 This script assumes you have Windows 10 or PowerShell 4 installed and your RetroN 5 has already been rooted with ADB enabled.
